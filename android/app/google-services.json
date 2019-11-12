@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260059058016",
+    "firebase_url": "https://relax-spa.firebaseio.com",
+    "project_id": "relax-spa",
+    "storage_bucket": "relax-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260059058016:android:089d004ef4323ed4115805",
+        "android_client_info": {
+          "package_name": "com.example.spa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260059058016-o9f5q02ec0uq4189gvk4up49ipb9kdcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPgJ_B779V6ahzuvEOHdNn2ErKnTa0NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260059058016-o9f5q02ec0uq4189gvk4up49ipb9kdcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
